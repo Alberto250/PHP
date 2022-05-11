@@ -1,0 +1,8 @@
+
+			group participants
+			------------------
+
+
+			18RP02263 NIZEYIMANA Albert		(IT3B)
+			19RP06347 NSHIMIYIMANA Alex		(IT3A)
+
